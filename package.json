@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+    "homepage": "https://ahmadm1995.github.io/job-filter",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
